@@ -1,6 +1,6 @@
 {
   "name": "modified-consoles",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "With the help of this NPM package, you can add customised console logs for different console messages.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
