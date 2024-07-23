@@ -1,0 +1,29 @@
+{
+  "name": "modified-consoles",
+  "version": "1.0.0",
+  "description": "This NPM Package Provides functionality of adding modified console logs for different console messages for example you can use danger for displaying an error message and normal color for displaying an info console.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build":"tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamarNaqvi/Modified-consoles.git"
+  },
+  "keywords": [
+    "console logs colors",
+    "modified console logs"
+  ],
+  "author": "Samar <1051naqvi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamarNaqvi/Modified-consoles/issues"
+  },
+  "homepage": "https://github.com/SamarNaqvi/Modified-consoles#readme",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "files": ["lib/**/*"]
+}
