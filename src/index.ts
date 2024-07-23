@@ -22,7 +22,7 @@ export class ConsoleModifier{
         console.group(obj.title);
         for (let msg in obj.groupMessages)
             {
-                console.log(msg);
+                console.log(obj.groupMessages[msg]);
             }
         console.groupEnd();
     }
