@@ -1,6 +1,6 @@
 {
   "name": "modified-consoles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This NPM Package Provides functionality of adding modified console logs for different console messages for example you can use danger for displaying an error message and normal color for displaying an info console.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
