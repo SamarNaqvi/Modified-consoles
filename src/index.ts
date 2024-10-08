@@ -26,6 +26,5 @@ export class ConsoleModifier{
             }
         console.groupEnd();
     }
-
     
 };
